@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-automation-360409",
+  "private_key_id": "3178442cb3deff34c1d45435b628ec5adf76296c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsJ9EOyWjK/rkR\nyWseCetK4qeLA3IA5zq1bdUW1aLeJ/aDLPPta6i6lM+v3G59bD+Yr69/YAN4m6dU\nAuqAM8NXpZp/2MjsDXCADf8vSDKRrfjrzdKr5Gl5f13mYiY8/WEDIyFjR70JEpx5\ny06Fa+/RH2mw4c+6YyUdkbwi1s0xR01m1tei2hAutqQzPMaU/aQWkhF/Q9wexwTM\nDTifdYkIOakUqnbVM3yQdQjaxuYofw3FppC65mQ1myxi0f0LeV7d75GYH1kBbqNt\nQMqH+ZpM16OSPoPzPpQX0q+ch+nO02f8nOOo7Tsy3dQaSzBydfiGScoBCfYsCFVU\nFVfk3qvNAgMBAAECggEAAJazd2f6TkHLUza+zlL9W+IYU/h2i6Jx+z9wmTJKay6n\nmdcHaU2GPa3j/R3bv0NyZWzDkZCiYmd+p0hjq32On1gAuVgxIH5Pq97TlQ9O11wV\n1YSWKFVQt2qKlFuYj61tumUeQgJZ49Qm9qAN2PuMZ3wo6dxtaYQMrL21u+H2wKjh\nNxBGmDWQR40QOhh+WnX4O3hDoFlHbys14PhR3fIS6EiLEJIE5goK+aDyW+4hqoSb\nt8OkVInUhoGFgaYE0Fw90yx4Erfkpjy6SRESpzeCWEV7Nuetl0JfEQ2Q/SPKf2Ok\nvzAiJq91zkTkUwdhJEV+dBZzvC7B1HYvHum8h6CxxwKBgQDnjR5XvRrtfJxLpMbS\nH/yCI9Hkxnr3kggvJr1U/c87gCXqx18TRKRNiYtkrQU5GWtrrZC1ZDPv+9uGcUwF\nPTKtu2VHHKOwElmEISK9Ttx5sul0/bnkO11MW6b6++C+CjwuPiHUucOvRamldAf+\njind+MgfeZuljGpMM6FgpPHPawKBgQC+VTgIihBeibqkdIGNAzNKHSLDfzRK9rRF\nRn+2F2EEIKMNkLYenU5lb2mZH9SkqcegTDju5TFo/UPNuzuk5SyMj/vmp9g6F27/\nxmVs9qwULAG7cnwPoCmPrNNat8BfxG3yFTUaG5Yxpc9SCd7uNOgBcSuB0mC05m1H\nC5jQkKlXpwKBgQCxcPUlq2btQybK2PT7pUNtv2Fjfa5R9fiLmZZRgUbDhAqKhkoX\ni+yU9qh5eBWekho9o/5W4vjiGRE7T6tAAIvLkuWjvxC5JvauSG5EwCA4qqA45Q8F\nFXEDyOCHSWoKd/FyRm7Kg6ivsiS1A9v0eKEg1zsU064xCQ+UYaRzWTNtDQKBgEDC\nCfCN2QfxYHl30mRCBH9g7mUJsKcYzTkMxYMU7UNUP2XsKKq95uCISat5swXbZjpZ\n9L0Dag5IrXsgCykNeFzS2GggD2ekdXW88OFkBCRQ3L4EM8W1Pq7NpJOnFWMAGFBX\netvJKw71VVaaWSk/AvkKojzncVPbWq7jeTjtH1DdAoGBANdL+K4JVg0isR5VmYcb\nyKOIcC7IAY63mMIb4w43AKmxfHX9Ov8PF65kWdEVP01+oL3QrfLcOU94N4QhrWo8\nu0J6DaNTNRBB0P20AATFlvaB24t2XMHxJzCKmYEXma9DIJY+jzoT3C22I5J/A7kN\nThqpT5wQh+U/ot22PMq/0bB8\n-----END PRIVATE KEY-----\n",
+  "client_email": "zahraa@api-automation-360409.iam.gserviceaccount.com",
+  "client_id": "105013520132221706353",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zahraa%40api-automation-360409.iam.gserviceaccount.com"
+}
